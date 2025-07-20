@@ -1,0 +1,30 @@
+{
+  "session": {
+    "name": "",
+    "start_time": "",
+    "end_time": null,
+    "duration": null,
+    "repository_url": "",
+    "original_directory": ""
+  },
+  "project": {
+    "name": "",
+    "type": "",
+    "total_files": 0,
+    "main_language": "",
+    "dependencies": []
+  },
+  "git": {
+    "initial_commit": "",
+    "total_commits": 0,
+    "final_commit": "",
+    "files_changed": [],
+    "lines_added": 0,
+    "lines_removed": 0
+  },
+  "context": {
+    "total_updates": 0,
+    "final_token_count": 0,
+    "context_files_created": []
+  }
+}

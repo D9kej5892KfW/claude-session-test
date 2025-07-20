@@ -1,0 +1,29 @@
+{
+  "context_files": {
+    "chat-history.json": {
+      "estimated_tokens": 0,
+      "last_updated": "",
+      "size_bytes": 0
+    },
+    "session-notes.md": {
+      "estimated_tokens": 0,
+      "last_updated": "",
+      "size_bytes": 0
+    },
+    "project-context.md": {
+      "estimated_tokens": 0,
+      "last_updated": "",
+      "size_bytes": 0
+    }
+  },
+  "total_estimated_tokens": 0,
+  "recommendations": {
+    "quick_load": ["session-notes.md"],
+    "standard_load": ["session-notes.md", "project-context.md"],
+    "full_load": ["chat-history.json", "session-notes.md", "project-context.md"]
+  },
+  "token_limits": {
+    "warning_threshold": 150000,
+    "max_recommended": 180000
+  }
+}
