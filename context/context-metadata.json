@@ -1,22 +1,22 @@
 {
   "context_files": {
     "chat-history.json": {
-      "estimated_tokens": 0,
-      "last_updated": "",
-      "size_bytes": 0
+      "estimated_tokens": 4250,
+      "last_updated": "2025-07-19T23:58:15Z",
+      "size_bytes": 2840
     },
     "session-notes.md": {
-      "estimated_tokens": 0,
-      "last_updated": "",
-      "size_bytes": 0
+      "estimated_tokens": 850,
+      "last_updated": "2025-07-19T23:58:30Z",
+      "size_bytes": 1420
     },
     "project-context.md": {
-      "estimated_tokens": 0,
-      "last_updated": "",
-      "size_bytes": 0
+      "estimated_tokens": 620,
+      "last_updated": "2025-07-19T23:58:45Z",
+      "size_bytes": 1650
     }
   },
-  "total_estimated_tokens": 0,
+  "total_estimated_tokens": 5720,
   "recommendations": {
     "quick_load": ["session-notes.md"],
     "standard_load": ["session-notes.md", "project-context.md"],
@@ -25,5 +25,7 @@
   "token_limits": {
     "warning_threshold": 150000,
     "max_recommended": 180000
-  }
+  },
+  "last_update": "2025-07-19T23:58:45Z",
+  "session_status": "active"
 }
