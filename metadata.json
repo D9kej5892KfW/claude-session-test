@@ -1,30 +1,44 @@
 {
   "session": {
-    "name": "",
-    "start_time": "",
-    "end_time": null,
-    "duration": null,
-    "repository_url": "",
-    "original_directory": ""
+    "name": "claude-session-test",
+    "start_time": "2025-07-19T23:56:00Z",
+    "end_time": "2025-07-20T00:00:00Z",
+    "duration": "4 minutes",
+    "repository_url": "https://github.com/D9kej5892KfW/claude-session-test",
+    "original_directory": "/home/jeff/claude-code/19-07"
   },
   "project": {
-    "name": "",
-    "type": "",
-    "total_files": 0,
-    "main_language": "",
-    "dependencies": []
+    "name": "Session Management Library",
+    "type": "Claude Code Enhancement",
+    "total_files": 1,
+    "main_language": "markdown",
+    "dependencies": ["GitHub CLI", "Git", "Bash"]
   },
   "git": {
-    "initial_commit": "",
-    "total_commits": 0,
-    "final_commit": "",
-    "files_changed": [],
-    "lines_added": 0,
-    "lines_removed": 0
+    "initial_commit": "49c0316",
+    "total_commits": 3,
+    "final_commit": "pending",
+    "files_changed": [
+      "context/chat-history.json",
+      "context/session-notes.md", 
+      "context/project-context.md",
+      "context/context-metadata.json",
+      "context/context-index.md",
+      "README.md",
+      "metadata.json"
+    ],
+    "lines_added": 200,
+    "lines_removed": 45
   },
   "context": {
-    "total_updates": 0,
-    "final_token_count": 0,
-    "context_files_created": []
+    "total_updates": 1,
+    "final_token_count": 6420,
+    "context_files_created": [
+      "chat-history.json",
+      "session-notes.md",
+      "project-context.md", 
+      "context-metadata.json",
+      "context-index.md"
+    ]
   }
 }
